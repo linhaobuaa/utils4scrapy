@@ -1,0 +1,696 @@
+[2013-12-01 05:47] INFO: Token Maintain: maintain prepare
+[2013-12-01 05:47] INFO: Token Maintain: maintain begin
+[2013-12-01 05:48] INFO: Token Maintain: maintain end
+[2013-12-01 05:48] INFO: Token Maintain: maintain prepare
+[2013-12-01 05:48] INFO: Token Maintain: maintain begin
+[2013-12-01 05:48] INFO: Token Maintain: before mongo tokens count: 22
+[2013-12-01 05:48] INFO: Token Maintain: dfj7y7 auth api key 3105114937 success
+[2013-12-01 05:48] INFO: Token Maintain: after mongo tokens count: 23
+[2013-12-01 05:48] INFO: Token Maintain: before alive: 22
+[2013-12-01 05:48] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 08:29] INFO: Token Maintain: maintain prepare
+[2013-12-01 08:29] INFO: Token Maintain: maintain begin
+[2013-12-01 08:29] INFO: Token Maintain: before mongo tokens count: 23
+[2013-12-01 08:30] INFO: Token Maintain: dfj7y7 auth api key 3105114937 success
+[2013-12-01 08:30] INFO: Token Maintain: after mongo tokens count: 23
+[2013-12-01 08:30] INFO: Token Maintain: before alive: 22
+[2013-12-01 08:30] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 08:38] INFO: Token Maintain: maintain prepare
+[2013-12-01 08:38] INFO: Token Maintain: maintain begin
+[2013-12-01 08:38] INFO: Token Maintain: before mongo tokens count: 23
+[2013-12-01 08:38] INFO: Token Maintain: dkjfi823743 auth api key 3105114937 success
+[2013-12-01 08:38] INFO: Token Maintain: after mongo tokens count: 24
+[2013-12-01 08:38] INFO: Token Maintain: before alive: 22
+[2013-12-01 08:38] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 08:45] INFO: Token Maintain: maintain prepare
+[2013-12-01 08:45] INFO: Token Maintain: maintain begin
+[2013-12-01 08:45] INFO: Token Maintain: before mongo tokens count: 24
+[2013-12-01 08:47] INFO: Token Maintain: dkfji388 auth api key 3105114937 success
+[2013-12-01 08:47] INFO: Token Maintain: after mongo tokens count: 25
+[2013-12-01 08:47] INFO: Token Maintain: before alive: 22
+[2013-12-01 08:47] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 08:50] INFO: Token Maintain: maintain prepare
+[2013-12-01 08:50] INFO: Token Maintain: maintain begin
+[2013-12-01 08:50] INFO: Token Maintain: before mongo tokens count: 25
+[2013-12-01 08:50] INFO: Token Maintain: kdjf38 auth api key 3105114937 success
+[2013-12-01 08:50] INFO: Token Maintain: after mongo tokens count: 26
+[2013-12-01 08:50] INFO: Token Maintain: before alive: 22
+[2013-12-01 08:50] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 09:00] INFO: Token Maintain: maintain prepare
+[2013-12-01 09:00] INFO: Token Maintain: maintain begin
+[2013-12-01 09:00] INFO: Token Maintain: before mongo tokens count: 26
+[2013-12-01 09:00] INFO: Token Maintain: dkfj277 auth api key 3105114937 success
+[2013-12-01 09:00] INFO: Token Maintain: after mongo tokens count: 27
+[2013-12-01 09:00] INFO: Token Maintain: before alive: 22
+[2013-12-01 09:00] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 09:01] INFO: Token Maintain: maintain prepare
+[2013-12-01 09:01] INFO: Token Maintain: maintain begin
+[2013-12-01 09:01] INFO: Token Maintain: before mongo tokens count: 27
+[2013-12-01 09:02] INFO: Token Maintain: maintain prepare
+[2013-12-01 09:02] INFO: Token Maintain: maintain begin
+[2013-12-01 09:02] INFO: Token Maintain: before mongo tokens count: 27
+[2013-12-01 09:02] INFO: Token Maintain: ideca717_1 auth api key 3105114937 success
+[2013-12-01 09:02] INFO: Token Maintain: after mongo tokens count: 28
+[2013-12-01 09:02] INFO: Token Maintain: before alive: 22
+[2013-12-01 09:02] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 09:03] INFO: Token Maintain: maintain prepare
+[2013-12-01 09:03] INFO: Token Maintain: maintain begin
+[2013-12-01 09:03] INFO: Token Maintain: before mongo tokens count: 28
+[2013-12-01 09:03] INFO: Token Maintain: ideca717_2 auth api key 3105114937 success
+[2013-12-01 09:03] INFO: Token Maintain: after mongo tokens count: 29
+[2013-12-01 09:03] INFO: Token Maintain: before alive: 22
+[2013-12-01 09:03] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 09:12] INFO: Token Maintain: maintain prepare
+[2013-12-01 09:12] INFO: Token Maintain: maintain begin
+[2013-12-01 09:12] INFO: Token Maintain: before mongo tokens count: 29
+[2013-12-01 09:12] INFO: Token Maintain: 勤奋BH002 auth api key 3105114937 success
+[2013-12-01 09:12] INFO: Token Maintain: after mongo tokens count: 30
+[2013-12-01 09:12] INFO: Token Maintain: before alive: 22
+[2013-12-01 09:12] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 09:15] INFO: Token Maintain: maintain prepare
+[2013-12-01 09:15] INFO: Token Maintain: maintain begin
+[2013-12-01 09:15] INFO: Token Maintain: before mongo tokens count: 30
+[2013-12-01 09:15] INFO: Token Maintain: 勤奋BH003 auth api key 3105114937 success
+[2013-12-01 09:15] INFO: Token Maintain: after mongo tokens count: 31
+[2013-12-01 09:15] INFO: Token Maintain: before alive: 22
+[2013-12-01 09:15] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 09:26] INFO: Token Maintain: maintain prepare
+[2013-12-01 09:26] INFO: Token Maintain: maintain begin
+[2013-12-01 09:26] INFO: Token Maintain: before mongo tokens count: 31
+[2013-12-01 09:26] INFO: Token Maintain: ideclmn1 auth api key 3105114937 success
+[2013-12-01 09:26] INFO: Token Maintain: after mongo tokens count: 32
+[2013-12-01 09:26] INFO: Token Maintain: before alive: 22
+[2013-12-01 09:26] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 09:28] INFO: Token Maintain: maintain prepare
+[2013-12-01 09:28] INFO: Token Maintain: maintain begin
+[2013-12-01 09:28] INFO: Token Maintain: before mongo tokens count: 32
+[2013-12-01 09:29] INFO: Token Maintain: ideclmn3 auth api key 3105114937 success
+[2013-12-01 09:29] INFO: Token Maintain: after mongo tokens count: 33
+[2013-12-01 09:29] INFO: Token Maintain: before alive: 22
+[2013-12-01 09:29] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 09:32] INFO: Token Maintain: maintain prepare
+[2013-12-01 09:32] INFO: Token Maintain: maintain begin
+[2013-12-01 09:32] INFO: Token Maintain: before mongo tokens count: 33
+[2013-12-01 09:32] INFO: Token Maintain: ideclmn2 auth api key 3105114937 success
+[2013-12-01 09:32] INFO: Token Maintain: after mongo tokens count: 34
+[2013-12-01 09:32] INFO: Token Maintain: before alive: 22
+[2013-12-01 09:32] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 14:55] INFO: Token Maintain: maintain prepare
+[2013-12-01 14:55] INFO: Token Maintain: maintain begin
+[2013-12-01 14:55] INFO: Token Maintain: before mongo tokens count: 34
+[2013-12-01 14:59] INFO: Token Maintain: maintain prepare
+[2013-12-01 14:59] INFO: Token Maintain: maintain begin
+[2013-12-01 14:59] INFO: Token Maintain: before mongo tokens count: 34
+[2013-12-01 15:49] INFO: Token Maintain: maintain prepare
+[2013-12-01 15:49] INFO: Token Maintain: maintain begin
+[2013-12-01 15:49] INFO: Token Maintain: before mongo tokens count: 34
+[2013-12-01 15:49] INFO: Token Maintain: idec1 auth api key 3105114937 success
+[2013-12-01 15:49] INFO: Token Maintain: after mongo tokens count: 35
+[2013-12-01 15:49] INFO: Token Maintain: before alive: 22
+[2013-12-01 15:49] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 15:50] INFO: Token Maintain: maintain prepare
+[2013-12-01 15:50] INFO: Token Maintain: maintain begin
+[2013-12-01 15:50] INFO: Token Maintain: before mongo tokens count: 35
+[2013-12-01 15:51] INFO: Token Maintain: idec2 auth api key 3105114937 success
+[2013-12-01 15:51] INFO: Token Maintain: after mongo tokens count: 36
+[2013-12-01 15:51] INFO: Token Maintain: before alive: 22
+[2013-12-01 15:51] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 15:52] INFO: Token Maintain: maintain prepare
+[2013-12-01 15:52] INFO: Token Maintain: maintain begin
+[2013-12-01 15:52] INFO: Token Maintain: before mongo tokens count: 36
+[2013-12-01 15:52] INFO: Token Maintain: maintain prepare
+[2013-12-01 15:52] INFO: Token Maintain: maintain begin
+[2013-12-01 15:52] INFO: Token Maintain: before mongo tokens count: 36
+[2013-12-01 15:52] INFO: Token Maintain: idec3 auth api key 3105114937 success
+[2013-12-01 15:52] INFO: Token Maintain: after mongo tokens count: 37
+[2013-12-01 15:52] INFO: Token Maintain: before alive: 22
+[2013-12-01 15:52] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 15:53] INFO: Token Maintain: maintain prepare
+[2013-12-01 15:53] INFO: Token Maintain: maintain begin
+[2013-12-01 15:53] INFO: Token Maintain: before mongo tokens count: 37
+[2013-12-01 15:53] INFO: Token Maintain: idec5 auth api key 3105114937 success
+[2013-12-01 15:53] INFO: Token Maintain: after mongo tokens count: 38
+[2013-12-01 15:53] INFO: Token Maintain: before alive: 22
+[2013-12-01 15:53] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 15:54] INFO: Token Maintain: maintain prepare
+[2013-12-01 15:54] INFO: Token Maintain: maintain begin
+[2013-12-01 15:54] INFO: Token Maintain: before mongo tokens count: 38
+[2013-12-01 15:54] INFO: Token Maintain: idec6 auth api key 3105114937 success
+[2013-12-01 15:54] INFO: Token Maintain: after mongo tokens count: 39
+[2013-12-01 15:54] INFO: Token Maintain: before alive: 22
+[2013-12-01 15:54] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 15:55] INFO: Token Maintain: maintain prepare
+[2013-12-01 15:55] INFO: Token Maintain: maintain begin
+[2013-12-01 15:55] INFO: Token Maintain: before mongo tokens count: 39
+[2013-12-01 15:55] INFO: Token Maintain: idec7 auth api key 3105114937 success
+[2013-12-01 15:55] INFO: Token Maintain: after mongo tokens count: 40
+[2013-12-01 15:55] INFO: Token Maintain: before alive: 22
+[2013-12-01 15:55] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 15:56] INFO: Token Maintain: maintain prepare
+[2013-12-01 15:56] INFO: Token Maintain: maintain begin
+[2013-12-01 15:56] INFO: Token Maintain: before mongo tokens count: 40
+[2013-12-01 15:56] INFO: Token Maintain: idec8 auth api key 3105114937 success
+[2013-12-01 15:56] INFO: Token Maintain: after mongo tokens count: 41
+[2013-12-01 15:56] INFO: Token Maintain: before alive: 22
+[2013-12-01 15:56] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 15:56] INFO: Token Maintain: maintain prepare
+[2013-12-01 15:56] INFO: Token Maintain: maintain begin
+[2013-12-01 15:56] INFO: Token Maintain: before mongo tokens count: 41
+[2013-12-01 15:56] INFO: Token Maintain: idec9 auth api key 3105114937 success
+[2013-12-01 15:56] INFO: Token Maintain: after mongo tokens count: 42
+[2013-12-01 15:56] INFO: Token Maintain: before alive: 22
+[2013-12-01 15:56] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:04] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:04] INFO: Token Maintain: maintain begin
+[2013-12-01 16:04] INFO: Token Maintain: before mongo tokens count: 42
+[2013-12-01 16:04] INFO: Token Maintain: dfkj3 auth api key 3105114937 success
+[2013-12-01 16:04] INFO: Token Maintain: after mongo tokens count: 43
+[2013-12-01 16:04] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:04] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:08] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:08] INFO: Token Maintain: maintain begin
+[2013-12-01 16:08] INFO: Token Maintain: before mongo tokens count: 43
+[2013-12-01 16:08] INFO: Token Maintain: ideclmn4 auth api key 3105114937 success
+[2013-12-01 16:08] INFO: Token Maintain: after mongo tokens count: 44
+[2013-12-01 16:08] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:08] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:10] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:10] INFO: Token Maintain: maintain begin
+[2013-12-01 16:10] INFO: Token Maintain: before mongo tokens count: 44
+[2013-12-01 16:10] INFO: Token Maintain: ideclmn5_72598 auth api key 3105114937 success
+[2013-12-01 16:10] INFO: Token Maintain: after mongo tokens count: 45
+[2013-12-01 16:10] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:10] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:11] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:11] INFO: Token Maintain: maintain begin
+[2013-12-01 16:11] INFO: Token Maintain: before mongo tokens count: 45
+[2013-12-01 16:11] INFO: Token Maintain: ideclmn6 auth api key 3105114937 success
+[2013-12-01 16:11] INFO: Token Maintain: after mongo tokens count: 46
+[2013-12-01 16:11] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:11] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:12] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:12] INFO: Token Maintain: maintain begin
+[2013-12-01 16:12] INFO: Token Maintain: before mongo tokens count: 46
+[2013-12-01 16:12] INFO: Token Maintain: ideclmn7 auth api key 3105114937 success
+[2013-12-01 16:12] INFO: Token Maintain: after mongo tokens count: 47
+[2013-12-01 16:12] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:12] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:15] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:15] INFO: Token Maintain: maintain begin
+[2013-12-01 16:15] INFO: Token Maintain: before mongo tokens count: 47
+[2013-12-01 16:15] INFO: Token Maintain: ideclmn8 auth api key 3105114937 success
+[2013-12-01 16:15] INFO: Token Maintain: after mongo tokens count: 48
+[2013-12-01 16:15] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:15] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:16] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:16] INFO: Token Maintain: maintain begin
+[2013-12-01 16:16] INFO: Token Maintain: before mongo tokens count: 48
+[2013-12-01 16:16] INFO: Token Maintain: ideclmn9 auth api key 3105114937 success
+[2013-12-01 16:16] INFO: Token Maintain: after mongo tokens count: 49
+[2013-12-01 16:16] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:16] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:17] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:17] INFO: Token Maintain: maintain begin
+[2013-12-01 16:17] INFO: Token Maintain: before mongo tokens count: 49
+[2013-12-01 16:18] INFO: Token Maintain: ideclmn10 auth api key 3105114937 success
+[2013-12-01 16:18] INFO: Token Maintain: after mongo tokens count: 50
+[2013-12-01 16:18] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:18] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:21] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:21] INFO: Token Maintain: maintain begin
+[2013-12-01 16:21] INFO: Token Maintain: before mongo tokens count: 50
+[2013-12-01 16:21] INFO: Token Maintain: dfedf66 auth api key 3105114937 success
+[2013-12-01 16:21] INFO: Token Maintain: after mongo tokens count: 51
+[2013-12-01 16:21] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:21] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:25] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:25] INFO: Token Maintain: maintain begin
+[2013-12-01 16:25] INFO: Token Maintain: before mongo tokens count: 51
+[2013-12-01 16:25] INFO: Token Maintain: eiieikdjf auth api key 3105114937 success
+[2013-12-01 16:25] INFO: Token Maintain: after mongo tokens count: 52
+[2013-12-01 16:25] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:25] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:28] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:28] INFO: Token Maintain: maintain begin
+[2013-12-01 16:28] INFO: Token Maintain: before mongo tokens count: 52
+[2013-12-01 16:29] INFO: Token Maintain: dfeeee1997 auth api key 3105114937 success
+[2013-12-01 16:29] INFO: Token Maintain: after mongo tokens count: 53
+[2013-12-01 16:29] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:29] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:31] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:31] INFO: Token Maintain: maintain begin
+[2013-12-01 16:31] INFO: Token Maintain: before mongo tokens count: 53
+[2013-12-01 16:31] INFO: Token Maintain: dfeeee19972013 auth api key 3105114937 success
+[2013-12-01 16:31] INFO: Token Maintain: after mongo tokens count: 54
+[2013-12-01 16:31] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:31] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:34] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:34] INFO: Token Maintain: maintain begin
+[2013-12-01 16:34] INFO: Token Maintain: before mongo tokens count: 54
+[2013-12-01 16:35] INFO: Token Maintain: dfeeee19972013 auth api key 3105114937 success
+[2013-12-01 16:35] INFO: Token Maintain: after mongo tokens count: 54
+[2013-12-01 16:35] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:35] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-01 16:38] INFO: Token Maintain: maintain prepare
+[2013-12-01 16:38] INFO: Token Maintain: maintain begin
+[2013-12-01 16:38] INFO: Token Maintain: before mongo tokens count: 54
+[2013-12-01 16:38] INFO: Token Maintain: 遗忘的dfefe auth api key 3105114937 success
+[2013-12-01 16:38] INFO: Token Maintain: after mongo tokens count: 55
+[2013-12-01 16:38] INFO: Token Maintain: before alive: 22
+[2013-12-01 16:38] INFO: Token Maintain: Token in Redis reach max size: 22, stop maintain
+[2013-12-02 07:02] INFO: Token Maintain: maintain prepare
+[2013-12-02 07:02] INFO: Token Maintain: maintain begin
+[2013-12-02 07:03] INFO: Token Maintain: maintain prepare
+[2013-12-02 07:03] INFO: Token Maintain: maintain begin
+[2013-12-02 07:04] INFO: Token Maintain: maintain prepare
+[2013-12-02 07:04] INFO: Token Maintain: maintain begin
+[2013-12-02 07:04] INFO: Token Maintain: maintain end
+[2013-12-02 08:03] INFO: Token Maintain: maintain prepare
+[2013-12-02 08:03] INFO: Token Maintain: maintain begin
+[2013-12-02 08:03] INFO: Token Maintain: maintain end
+[2013-12-02 10:09] INFO: Token Maintain: maintain prepare
+[2013-12-02 10:09] INFO: Token Maintain: maintain begin
+[2013-12-02 10:09] INFO: Token Maintain: maintain end
+[2013-12-02 16:14] INFO: Token Maintain: maintain prepare
+[2013-12-02 16:14] INFO: Token Maintain: maintain begin
+[2013-12-02 16:14] INFO: Token Maintain: before mongo tokens count: 55
+[2013-12-02 16:14] INFO: Token Maintain: 宝宝dkfj277_88192 auth api key 3105114937 success
+[2013-12-02 16:14] INFO: Token Maintain: after mongo tokens count: 56
+[2013-12-02 16:14] INFO: Token Maintain: before alive: 15
+[2013-12-02 16:21] INFO: Token Maintain: maintain prepare
+[2013-12-02 16:21] INFO: Token Maintain: maintain begin
+[2013-12-02 16:21] INFO: Token Maintain: before mongo tokens count: 56
+[2013-12-02 16:21] INFO: Token Maintain: 过客dfjkk auth api key 3105114937 success
+[2013-12-02 16:21] INFO: Token Maintain: after mongo tokens count: 57
+[2013-12-02 16:21] INFO: Token Maintain: before alive: 16
+[2013-12-02 16:21] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-02 16:24] INFO: Token Maintain: maintain prepare
+[2013-12-02 16:24] INFO: Token Maintain: maintain begin
+[2013-12-02 16:24] INFO: Token Maintain: before mongo tokens count: 57
+[2013-12-02 16:24] INFO: Token Maintain: dfefee188 auth api key 3105114937 success
+[2013-12-02 16:24] INFO: Token Maintain: after mongo tokens count: 58
+[2013-12-02 16:24] INFO: Token Maintain: before alive: 16
+[2013-12-02 16:24] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 02:40] INFO: Token Maintain: maintain prepare
+[2013-12-03 02:40] INFO: Token Maintain: maintain begin
+[2013-12-03 02:41] INFO: Token Maintain: maintain prepare
+[2013-12-03 02:41] INFO: Token Maintain: maintain begin
+[2013-12-03 02:41] INFO: Token Maintain: before mongo tokens count: 58
+[2013-12-03 02:41] INFO: Token Maintain: dfek88 auth api key 3105114937 success
+[2013-12-03 02:41] INFO: Token Maintain: after mongo tokens count: 59
+[2013-12-03 02:41] INFO: Token Maintain: before alive: 16
+[2013-12-03 02:41] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 02:46] INFO: Token Maintain: maintain prepare
+[2013-12-03 02:46] INFO: Token Maintain: maintain begin
+[2013-12-03 02:46] INFO: Token Maintain: before mongo tokens count: 59
+[2013-12-03 02:46] INFO: Token Maintain: dfdk32 auth api key 3105114937 success
+[2013-12-03 02:46] INFO: Token Maintain: after mongo tokens count: 60
+[2013-12-03 02:46] INFO: Token Maintain: before alive: 16
+[2013-12-03 02:46] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 02:49] INFO: Token Maintain: maintain prepare
+[2013-12-03 02:49] INFO: Token Maintain: maintain begin
+[2013-12-03 02:49] INFO: Token Maintain: before mongo tokens count: 60
+[2013-12-03 02:49] INFO: Token Maintain: 路小飞1434024867 auth api key 3105114937 success
+[2013-12-03 02:49] INFO: Token Maintain: after mongo tokens count: 61
+[2013-12-03 02:49] INFO: Token Maintain: before alive: 16
+[2013-12-03 02:49] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 02:52] INFO: Token Maintain: maintain prepare
+[2013-12-03 02:52] INFO: Token Maintain: maintain begin
+[2013-12-03 02:52] INFO: Token Maintain: before mongo tokens count: 61
+[2013-12-03 02:52] INFO: Token Maintain: LinHaoBuaa auth api key 3105114937 success
+[2013-12-03 02:52] INFO: Token Maintain: after mongo tokens count: 61
+[2013-12-03 02:52] INFO: Token Maintain: before alive: 16
+[2013-12-03 02:52] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 02:57] INFO: Token Maintain: maintain prepare
+[2013-12-03 02:57] INFO: Token Maintain: maintain begin
+[2013-12-03 02:57] INFO: Token Maintain: before mongo tokens count: 61
+[2013-12-03 02:57] INFO: Token Maintain: buaasinalh auth api key 3105114937 success
+[2013-12-03 02:58] INFO: Token Maintain: after mongo tokens count: 62
+[2013-12-03 02:58] INFO: Token Maintain: before alive: 16
+[2013-12-03 02:58] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 02:58] INFO: Token Maintain: maintain prepare
+[2013-12-03 02:58] INFO: Token Maintain: maintain begin
+[2013-12-03 02:58] INFO: Token Maintain: before mongo tokens count: 62
+[2013-12-03 02:59] INFO: Token Maintain: LinHaoBuaa auth api key 3105114937 success
+[2013-12-03 02:59] INFO: Token Maintain: after mongo tokens count: 62
+[2013-12-03 02:59] INFO: Token Maintain: before alive: 16
+[2013-12-03 02:59] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 03:07] INFO: Token Maintain: maintain prepare
+[2013-12-03 03:07] INFO: Token Maintain: maintain begin
+[2013-12-03 03:07] INFO: Token Maintain: before mongo tokens count: 62
+[2013-12-03 03:07] INFO: Token Maintain: kdjf3小朋友 auth api key 3105114937 success
+[2013-12-03 03:07] INFO: Token Maintain: after mongo tokens count: 63
+[2013-12-03 03:07] INFO: Token Maintain: before alive: 16
+[2013-12-03 03:07] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 03:12] INFO: Token Maintain: maintain prepare
+[2013-12-03 03:12] INFO: Token Maintain: maintain begin
+[2013-12-03 03:12] INFO: Token Maintain: before mongo tokens count: 63
+[2013-12-03 03:12] INFO: Token Maintain: dfj33434 auth api key 3105114937 success
+[2013-12-03 03:12] INFO: Token Maintain: after mongo tokens count: 64
+[2013-12-03 03:12] INFO: Token Maintain: before alive: 16
+[2013-12-03 03:12] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 03:13] INFO: Token Maintain: maintain prepare
+[2013-12-03 03:13] INFO: Token Maintain: maintain begin
+[2013-12-03 03:13] INFO: Token Maintain: before mongo tokens count: 64
+[2013-12-03 03:14] INFO: Token Maintain: 52MB_97419 auth api key 3105114937 success
+[2013-12-03 03:14] INFO: Token Maintain: after mongo tokens count: 65
+[2013-12-03 03:14] INFO: Token Maintain: before alive: 16
+[2013-12-03 03:14] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 05:59] INFO: Token Maintain: maintain prepare
+[2013-12-03 05:59] INFO: Token Maintain: maintain begin
+[2013-12-03 05:59] INFO: Token Maintain: before mongo tokens count: 65
+[2013-12-03 06:02] INFO: Token Maintain: dfhj8 auth api key 3105114937 success
+[2013-12-03 06:02] INFO: Token Maintain: after mongo tokens count: 66
+[2013-12-03 06:02] INFO: Token Maintain: before alive: 16
+[2013-12-03 06:02] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 06:09] INFO: Token Maintain: maintain prepare
+[2013-12-03 06:09] INFO: Token Maintain: maintain begin
+[2013-12-03 06:09] INFO: Token Maintain: before mongo tokens count: 66
+[2013-12-03 06:09] INFO: Token Maintain: dkfjk399 auth api key 3105114937 success
+[2013-12-03 06:09] INFO: Token Maintain: after mongo tokens count: 67
+[2013-12-03 06:09] INFO: Token Maintain: before alive: 16
+[2013-12-03 06:09] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 06:14] INFO: Token Maintain: maintain prepare
+[2013-12-03 06:14] INFO: Token Maintain: maintain begin
+[2013-12-03 06:14] INFO: Token Maintain: before mongo tokens count: 67
+[2013-12-03 06:15] INFO: Token Maintain: dkfje55 auth api key 3105114937 success
+[2013-12-03 06:15] INFO: Token Maintain: after mongo tokens count: 68
+[2013-12-03 06:15] INFO: Token Maintain: before alive: 16
+[2013-12-03 06:15] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 08:05] INFO: Token Maintain: maintain prepare
+[2013-12-03 08:05] INFO: Token Maintain: maintain begin
+[2013-12-03 08:05] INFO: Token Maintain: before mongo tokens count: 68
+[2013-12-03 08:05] INFO: Token Maintain: dkfjie3 auth api key 3105114937 success
+[2013-12-03 08:05] INFO: Token Maintain: after mongo tokens count: 69
+[2013-12-03 08:05] INFO: Token Maintain: before alive: 16
+[2013-12-03 08:05] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 08:10] INFO: Token Maintain: maintain prepare
+[2013-12-03 08:10] INFO: Token Maintain: maintain begin
+[2013-12-03 08:10] INFO: Token Maintain: before mongo tokens count: 69
+[2013-12-03 08:10] INFO: Token Maintain: kdjfiei8 auth api key 3105114937 success
+[2013-12-03 08:10] INFO: Token Maintain: after mongo tokens count: 70
+[2013-12-03 08:10] INFO: Token Maintain: before alive: 16
+[2013-12-03 08:10] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 08:17] INFO: Token Maintain: maintain prepare
+[2013-12-03 08:17] INFO: Token Maintain: maintain begin
+[2013-12-03 08:17] INFO: Token Maintain: before mongo tokens count: 70
+[2013-12-03 08:17] INFO: Token Maintain: dkfjiei34 auth api key 3105114937 success
+[2013-12-03 08:17] INFO: Token Maintain: after mongo tokens count: 71
+[2013-12-03 08:17] INFO: Token Maintain: before alive: 16
+[2013-12-03 08:17] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 08:21] INFO: Token Maintain: maintain prepare
+[2013-12-03 08:21] INFO: Token Maintain: maintain begin
+[2013-12-03 08:21] INFO: Token Maintain: before mongo tokens count: 71
+[2013-12-03 08:21] INFO: Token Maintain: 387djfk auth api key 3105114937 success
+[2013-12-03 08:21] INFO: Token Maintain: after mongo tokens count: 72
+[2013-12-03 08:21] INFO: Token Maintain: before alive: 16
+[2013-12-03 08:21] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 08:24] INFO: Token Maintain: maintain prepare
+[2013-12-03 08:24] INFO: Token Maintain: maintain begin
+[2013-12-03 08:24] INFO: Token Maintain: before mongo tokens count: 72
+[2013-12-03 08:24] INFO: Token Maintain: dkjfie88 auth api key 3105114937 success
+[2013-12-03 08:24] INFO: Token Maintain: after mongo tokens count: 73
+[2013-12-03 08:24] INFO: Token Maintain: before alive: 16
+[2013-12-03 08:24] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 14:34] INFO: Token Maintain: maintain prepare
+[2013-12-03 14:34] INFO: Token Maintain: maintain begin
+[2013-12-03 14:34] INFO: Token Maintain: before mongo tokens count: 73
+[2013-12-03 14:34] INFO: Token Maintain: idec_1 auth api key 3105114937 success
+[2013-12-03 14:34] INFO: Token Maintain: after mongo tokens count: 74
+[2013-12-03 14:34] INFO: Token Maintain: before alive: 16
+[2013-12-03 14:34] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 14:35] INFO: Token Maintain: maintain prepare
+[2013-12-03 14:35] INFO: Token Maintain: maintain begin
+[2013-12-03 14:35] INFO: Token Maintain: before mongo tokens count: 74
+[2013-12-03 14:35] INFO: Token Maintain: ideca717_3 auth api key 3105114937 success
+[2013-12-03 14:35] INFO: Token Maintain: after mongo tokens count: 75
+[2013-12-03 14:35] INFO: Token Maintain: before alive: 16
+[2013-12-03 14:35] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 14:44] INFO: Token Maintain: maintain prepare
+[2013-12-03 14:44] INFO: Token Maintain: maintain begin
+[2013-12-03 14:44] INFO: Token Maintain: before mongo tokens count: 75
+[2013-12-03 14:44] INFO: Token Maintain: dkfjfie8 auth api key 3105114937 success
+[2013-12-03 14:44] INFO: Token Maintain: after mongo tokens count: 76
+[2013-12-03 14:44] INFO: Token Maintain: before alive: 16
+[2013-12-03 14:44] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 14:56] INFO: Token Maintain: maintain prepare
+[2013-12-03 14:56] INFO: Token Maintain: maintain begin
+[2013-12-03 14:56] INFO: Token Maintain: before mongo tokens count: 76
+[2013-12-03 14:58] INFO: Token Maintain: ideca717_4 auth api key 3105114937 success
+[2013-12-03 14:58] INFO: Token Maintain: after mongo tokens count: 77
+[2013-12-03 14:58] INFO: Token Maintain: before alive: 16
+[2013-12-03 14:58] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:04] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:04] INFO: Token Maintain: maintain begin
+[2013-12-03 15:04] INFO: Token Maintain: before mongo tokens count: 77
+[2013-12-03 15:04] INFO: Token Maintain: dkfjei82013 auth api key 3105114937 success
+[2013-12-03 15:04] INFO: Token Maintain: after mongo tokens count: 78
+[2013-12-03 15:04] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:04] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:06] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:06] INFO: Token Maintain: maintain begin
+[2013-12-03 15:06] INFO: Token Maintain: before mongo tokens count: 78
+[2013-12-03 15:07] INFO: Token Maintain: ideclmn11 auth api key 3105114937 success
+[2013-12-03 15:07] INFO: Token Maintain: after mongo tokens count: 79
+[2013-12-03 15:07] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:07] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:07] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:07] INFO: Token Maintain: maintain begin
+[2013-12-03 15:07] INFO: Token Maintain: before mongo tokens count: 79
+[2013-12-03 15:08] INFO: Token Maintain: ideclmn12 auth api key 3105114937 success
+[2013-12-03 15:08] INFO: Token Maintain: after mongo tokens count: 80
+[2013-12-03 15:08] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:08] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:09] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:09] INFO: Token Maintain: maintain begin
+[2013-12-03 15:09] INFO: Token Maintain: before mongo tokens count: 80
+[2013-12-03 15:09] INFO: Token Maintain: ideclmn13 auth api key 3105114937 success
+[2013-12-03 15:09] INFO: Token Maintain: after mongo tokens count: 81
+[2013-12-03 15:09] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:09] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:11] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:11] INFO: Token Maintain: maintain begin
+[2013-12-03 15:11] INFO: Token Maintain: before mongo tokens count: 81
+[2013-12-03 15:12] INFO: Token Maintain: ideclmn14 auth api key 3105114937 success
+[2013-12-03 15:12] INFO: Token Maintain: after mongo tokens count: 82
+[2013-12-03 15:12] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:12] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:13] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:13] INFO: Token Maintain: maintain begin
+[2013-12-03 15:13] INFO: Token Maintain: before mongo tokens count: 82
+[2013-12-03 15:13] INFO: Token Maintain: ideclmn15 auth api key 3105114937 success
+[2013-12-03 15:13] INFO: Token Maintain: after mongo tokens count: 83
+[2013-12-03 15:13] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:13] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:14] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:14] INFO: Token Maintain: maintain begin
+[2013-12-03 15:14] INFO: Token Maintain: before mongo tokens count: 83
+[2013-12-03 15:15] INFO: Token Maintain: dkjfie88 auth api key 3105114937 success
+[2013-12-03 15:15] INFO: Token Maintain: after mongo tokens count: 83
+[2013-12-03 15:15] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:15] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:24] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:24] INFO: Token Maintain: maintain begin
+[2013-12-03 15:24] INFO: Token Maintain: before mongo tokens count: 83
+[2013-12-03 15:24] INFO: Token Maintain: dkjfiei88 auth api key 3105114937 success
+[2013-12-03 15:24] INFO: Token Maintain: after mongo tokens count: 84
+[2013-12-03 15:24] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:24] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:33] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:33] INFO: Token Maintain: maintain begin
+[2013-12-03 15:33] INFO: Token Maintain: before mongo tokens count: 84
+[2013-12-03 15:33] INFO: Token Maintain: dkfjeii auth api key 3105114937 success
+[2013-12-03 15:33] INFO: Token Maintain: after mongo tokens count: 85
+[2013-12-03 15:33] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:33] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:34] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:34] INFO: Token Maintain: maintain begin
+[2013-12-03 15:34] INFO: Token Maintain: before mongo tokens count: 85
+[2013-12-03 15:35] INFO: Token Maintain: ideclmn16 auth api key 3105114937 success
+[2013-12-03 15:35] INFO: Token Maintain: after mongo tokens count: 86
+[2013-12-03 15:35] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:35] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:36] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:36] INFO: Token Maintain: maintain begin
+[2013-12-03 15:36] INFO: Token Maintain: before mongo tokens count: 86
+[2013-12-03 15:37] INFO: Token Maintain: ideclmn17 auth api key 3105114937 success
+[2013-12-03 15:37] INFO: Token Maintain: after mongo tokens count: 87
+[2013-12-03 15:37] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:37] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:38] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:38] INFO: Token Maintain: maintain begin
+[2013-12-03 15:38] INFO: Token Maintain: before mongo tokens count: 87
+[2013-12-03 15:38] INFO: Token Maintain: ideclmn18 auth api key 3105114937 success
+[2013-12-03 15:38] INFO: Token Maintain: after mongo tokens count: 88
+[2013-12-03 15:38] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:38] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:39] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:39] INFO: Token Maintain: maintain begin
+[2013-12-03 15:39] INFO: Token Maintain: before mongo tokens count: 88
+[2013-12-03 15:39] INFO: Token Maintain: ideclmn19 auth api key 3105114937 success
+[2013-12-03 15:39] INFO: Token Maintain: after mongo tokens count: 89
+[2013-12-03 15:39] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:39] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:40] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:40] INFO: Token Maintain: maintain begin
+[2013-12-03 15:40] INFO: Token Maintain: before mongo tokens count: 89
+[2013-12-03 15:41] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:41] INFO: Token Maintain: maintain begin
+[2013-12-03 15:41] INFO: Token Maintain: maintain end
+[2013-12-03 15:41] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:41] INFO: Token Maintain: maintain begin
+[2013-12-03 15:41] INFO: Token Maintain: before mongo tokens count: 89
+[2013-12-03 15:41] INFO: Token Maintain: ideclmn20 auth api key 3105114937 success
+[2013-12-03 15:41] INFO: Token Maintain: after mongo tokens count: 90
+[2013-12-03 15:41] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:41] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:47] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:47] INFO: Token Maintain: maintain begin
+[2013-12-03 15:47] INFO: Token Maintain: before mongo tokens count: 90
+[2013-12-03 15:47] INFO: Token Maintain: dfjiei234 auth api key 3105114937 success
+[2013-12-03 15:47] INFO: Token Maintain: after mongo tokens count: 91
+[2013-12-03 15:47] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:47] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:52] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:52] INFO: Token Maintain: maintain begin
+[2013-12-03 15:52] INFO: Token Maintain: before mongo tokens count: 91
+[2013-12-03 15:53] INFO: Token Maintain: dkjfei3 auth api key 3105114937 success
+[2013-12-03 15:53] INFO: Token Maintain: after mongo tokens count: 92
+[2013-12-03 15:53] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:53] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:56] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:56] INFO: Token Maintain: maintain begin
+[2013-12-03 15:56] INFO: Token Maintain: before mongo tokens count: 92
+[2013-12-03 15:57] INFO: Token Maintain: 薄荷爱榴莲 auth api key 3105114937 success
+[2013-12-03 15:57] INFO: Token Maintain: after mongo tokens count: 93
+[2013-12-03 15:57] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:57] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 15:58] INFO: Token Maintain: maintain prepare
+[2013-12-03 15:58] INFO: Token Maintain: maintain begin
+[2013-12-03 15:58] INFO: Token Maintain: before mongo tokens count: 93
+[2013-12-03 15:58] INFO: Token Maintain: 薄荷爱榴莲1 auth api key 3105114937 success
+[2013-12-03 15:58] INFO: Token Maintain: after mongo tokens count: 94
+[2013-12-03 15:58] INFO: Token Maintain: before alive: 16
+[2013-12-03 15:58] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:00] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:00] INFO: Token Maintain: maintain begin
+[2013-12-03 16:00] INFO: Token Maintain: before mongo tokens count: 94
+[2013-12-03 16:00] INFO: Token Maintain: 薄荷爱榴莲2 auth api key 3105114937 success
+[2013-12-03 16:00] INFO: Token Maintain: after mongo tokens count: 95
+[2013-12-03 16:00] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:00] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:01] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:01] INFO: Token Maintain: maintain begin
+[2013-12-03 16:01] INFO: Token Maintain: before mongo tokens count: 95
+[2013-12-03 16:01] INFO: Token Maintain: 薄荷爱榴莲3 auth api key 3105114937 success
+[2013-12-03 16:01] INFO: Token Maintain: after mongo tokens count: 96
+[2013-12-03 16:01] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:01] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:02] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:02] INFO: Token Maintain: maintain begin
+[2013-12-03 16:02] INFO: Token Maintain: before mongo tokens count: 96
+[2013-12-03 16:02] INFO: Token Maintain: 薄荷爱榴莲4 auth api key 3105114937 success
+[2013-12-03 16:02] INFO: Token Maintain: after mongo tokens count: 97
+[2013-12-03 16:02] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:02] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:03] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:03] INFO: Token Maintain: maintain begin
+[2013-12-03 16:03] INFO: Token Maintain: before mongo tokens count: 97
+[2013-12-03 16:03] INFO: Token Maintain: 薄荷爱榴莲5 auth api key 3105114937 success
+[2013-12-03 16:03] INFO: Token Maintain: after mongo tokens count: 98
+[2013-12-03 16:03] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:03] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:04] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:04] INFO: Token Maintain: maintain begin
+[2013-12-03 16:04] INFO: Token Maintain: before mongo tokens count: 98
+[2013-12-03 16:04] INFO: Token Maintain: 薄荷爱榴莲7 auth api key 3105114937 success
+[2013-12-03 16:04] INFO: Token Maintain: after mongo tokens count: 99
+[2013-12-03 16:04] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:04] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:05] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:05] INFO: Token Maintain: maintain begin
+[2013-12-03 16:05] INFO: Token Maintain: before mongo tokens count: 99
+[2013-12-03 16:05] INFO: Token Maintain: 薄荷爱榴莲9 auth api key 3105114937 success
+[2013-12-03 16:05] INFO: Token Maintain: after mongo tokens count: 100
+[2013-12-03 16:05] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:05] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:19] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:19] INFO: Token Maintain: maintain begin
+[2013-12-03 16:19] INFO: Token Maintain: before mongo tokens count: 100
+[2013-12-03 16:19] INFO: Token Maintain: djfieie88 auth api key 3105114937 success
+[2013-12-03 16:19] INFO: Token Maintain: after mongo tokens count: 101
+[2013-12-03 16:19] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:19] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:22] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:22] INFO: Token Maintain: maintain begin
+[2013-12-03 16:22] INFO: Token Maintain: before mongo tokens count: 101
+[2013-12-03 16:22] INFO: Token Maintain: dkjfiei88马甲 auth api key 3105114937 success
+[2013-12-03 16:22] INFO: Token Maintain: after mongo tokens count: 102
+[2013-12-03 16:22] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:22] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:26] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:26] INFO: Token Maintain: maintain begin
+[2013-12-03 16:26] INFO: Token Maintain: before mongo tokens count: 102
+[2013-12-03 16:26] INFO: Token Maintain: dkfjiei88 auth api key 3105114937 success
+[2013-12-03 16:26] INFO: Token Maintain: after mongo tokens count: 103
+[2013-12-03 16:26] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:26] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:31] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:31] INFO: Token Maintain: maintain begin
+[2013-12-03 16:31] INFO: Token Maintain: before mongo tokens count: 103
+[2013-12-03 16:31] INFO: Token Maintain: djfiei23232 auth api key 3105114937 success
+[2013-12-03 16:31] INFO: Token Maintain: after mongo tokens count: 104
+[2013-12-03 16:31] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:31] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:33] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:33] INFO: Token Maintain: maintain begin
+[2013-12-03 16:33] INFO: Token Maintain: before mongo tokens count: 104
+[2013-12-03 16:34] INFO: Token Maintain: djfie88 auth api key 3105114937 success
+[2013-12-03 16:34] INFO: Token Maintain: after mongo tokens count: 105
+[2013-12-03 16:34] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:34] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:36] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:36] INFO: Token Maintain: maintain begin
+[2013-12-03 16:36] INFO: Token Maintain: before mongo tokens count: 105
+[2013-12-03 16:36] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:36] INFO: Token Maintain: maintain begin
+[2013-12-03 16:36] INFO: Token Maintain: before mongo tokens count: 105
+[2013-12-03 16:36] INFO: Token Maintain: 43dffdfd auth api key 3105114937 success
+[2013-12-03 16:36] INFO: Token Maintain: after mongo tokens count: 106
+[2013-12-03 16:36] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:36] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:43] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:43] INFO: Token Maintain: maintain begin
+[2013-12-03 16:43] INFO: Token Maintain: before mongo tokens count: 106
+[2013-12-03 16:44] INFO: Token Maintain: dfjiei8888 auth api key 3105114937 success
+[2013-12-03 16:44] INFO: Token Maintain: after mongo tokens count: 107
+[2013-12-03 16:44] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:44] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:46] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:46] INFO: Token Maintain: maintain begin
+[2013-12-03 16:46] INFO: Token Maintain: before mongo tokens count: 107
+[2013-12-03 16:47] INFO: Token Maintain: djfie888 auth api key 3105114937 success
+[2013-12-03 16:47] INFO: Token Maintain: after mongo tokens count: 108
+[2013-12-03 16:47] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:47] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:51] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:51] INFO: Token Maintain: maintain begin
+[2013-12-03 16:51] INFO: Token Maintain: before mongo tokens count: 108
+[2013-12-03 16:51] INFO: Token Maintain: eiiejjfj auth api key 3105114937 success
+[2013-12-03 16:51] INFO: Token Maintain: after mongo tokens count: 109
+[2013-12-03 16:51] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:51] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:54] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:54] INFO: Token Maintain: maintain begin
+[2013-12-03 16:54] INFO: Token Maintain: before mongo tokens count: 109
+[2013-12-03 16:54] INFO: Token Maintain: 238dkkk auth api key 3105114937 success
+[2013-12-03 16:54] INFO: Token Maintain: after mongo tokens count: 110
+[2013-12-03 16:54] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:54] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
+[2013-12-03 16:56] INFO: Token Maintain: maintain prepare
+[2013-12-03 16:56] INFO: Token Maintain: maintain begin
+[2013-12-03 16:56] INFO: Token Maintain: before mongo tokens count: 110
+[2013-12-03 16:56] INFO: Token Maintain: 388kjkk auth api key 3105114937 success
+[2013-12-03 16:56] INFO: Token Maintain: after mongo tokens count: 111
+[2013-12-03 16:56] INFO: Token Maintain: before alive: 16
+[2013-12-03 16:56] INFO: Token Maintain: Token in Redis reach max size: 16, stop maintain
